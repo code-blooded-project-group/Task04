@@ -62,7 +62,8 @@ public class MainApplication {
         fileMenu.add(exitItem);
         return fileMenu;
     }
-
+///////////////
+    
     public JMenu CreateViewMenu() {
         JMenu viewMenu = new JMenu("View");
 
